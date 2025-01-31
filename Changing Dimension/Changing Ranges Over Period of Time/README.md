@@ -106,7 +106,9 @@ TOPN(1,
 ![image info](images/tbl-pbi-dax-query-modifier.jpg)<br>
 >The key here is to grab only the top 1 value for filtered table based on range and given turbidtiy reading <br>
 <br>
+
 >In Calculated Column this code is row context of `Date`:
+
 ```
 DATE(2016,1,10)
 ```
