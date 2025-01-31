@@ -110,6 +110,7 @@ TOPN(1,
 ```
 DATE(2016,1,10)
 ```
+
 >In Calculated Column this code is row context of `Turbidity Reading`:
 ```
 12.36
